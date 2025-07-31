@@ -29,3 +29,5 @@ cd $(dirname $0)
 ```
 
 Once the process has started, the user can add new tasks adding a line in the proces.txt file.
+
+It is also possible to move the processes in the list to give them more or less priority.
