@@ -3,7 +3,7 @@ A simple script to schedule task to be processed sequentally (useful when sharin
 
 The tasks can be added in a text file while running the program.
 
-The script reads a file proces.txt that should contain one script to run in each line (use full path to scipt): For example:
+The script reads a file taskQueue.txt that should contain one script to run in each line (use full path to scipt): For example:
 
 ```
 /home/user/task1directory/task1.sh
