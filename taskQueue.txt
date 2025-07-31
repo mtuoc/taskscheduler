@@ -1,0 +1,2 @@
+/home/user/directory/script.sh
+python3 /home/user/directory/program.py
